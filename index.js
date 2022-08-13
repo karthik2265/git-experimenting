@@ -13,12 +13,4 @@ function sub(a, c) {
 
 
 
-function mult(a, b) {
-  return a * b
-}
-
-
-
-
-
 
