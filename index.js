@@ -4,9 +4,7 @@ function filterFunc(array) {
   return filteredArr
 }
 
-function sub(a, c) {
-  return a - c
-}
+
 
 
 
