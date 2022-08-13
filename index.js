@@ -5,7 +5,7 @@ function filterFunc(array) {
 }
 
 // 1
-
+// 2
 
 
 
